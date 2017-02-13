@@ -7,9 +7,12 @@
         
         <title>RSS - Redes Seguridad Y Sopórte</title>
         
-        <link rel="icon" type="image/x-icon" href="build/images/fav.ico" />
+        <link rel="shortcut icon" href="assets/images/gt_favicon.png">
 
         <!-- CSS -->
+
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
         <link rel="stylesheet" href="assets/css/animate.css" />
         <link rel="stylesheet" href="assets/css/styles.css" />
 
@@ -20,26 +23,26 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section clearfix">
-                        <h1 class="logo animated fadeInDown"><img src="images/logo.png" alt="SPERT S.A. de C.V." /></h1>
+                        <h1 class="logo animated fadeInDown"><img src="assets/images/logo.png" alt="RSS - Redes Seguridad y Sopórte" width="150px" height="150px" /></h1>
                         
                         <div id="text_slider">
                             <div class="slide clearfix"><h2>Esta página no esta disponible.</h2></div>
                         </div>   
                     </div>
                     <div class="section clearfix animated fadeIn">
-                        <p><a href="./">Te sugerimos regresar.</a></p>
+                        <p><a href="./" class="btn btn-success btn-lg"><i class="fa fa-reply-all"></i> Te sugerimos regresar</a></p>
                     </div>    
                 </div>
             </div>
         </div>
         <div id="footer">
-                <p>© Todos los Derechos Reservados <a href="http://spert.com.mx" title="SPERT S.A. de C.V.">Servicios Profesionales en Recursos Humanos y Tecnologías S.A. de C.V.</a><p>
+                <p>© Todos los Derechos Reservados <a href="http://" title="RSS - Redes Seguridad y Sopórte">RSS - Redes Seguridad y Sopórte</a><p>
         </div>
 		
 		<!-- JS -->
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/jquery.plugin.js"></script>
-        <script src="assets/js/scripts.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+        <!--<script src="assets/js/scripts.js"></script>-->
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
         <script src="js/html5shiv.js"></script>
