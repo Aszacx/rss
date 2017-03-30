@@ -2,12 +2,13 @@
 	if(isset($_POST['email'])) {
 
 		// Debes editar las próximas dos líneas de código de acuerdo con tus preferencias
-		$email_to = "contacto.df@spert.com.mx";
+		$email_to = "rss@redes-sys.net";
 		$email_subject = "Te han contactado a través del sitio web.";
 
 		// Aquí se deberían validar los datos ingresados por el usuario
-		if(!isset($_POST['first_name']) ||
+		if(!isset($_POST['nombre']) ||
 		!isset($_POST['empresa']) ||
+		!isset($_POST['telefono']) ||
 		!isset($_POST['email']) ||
 		!isset($_POST['comments'])) {
 
@@ -17,8 +18,9 @@
 		}
 
 		$email_message = "Detalles del formulario de contacto:\n\n";
-		$email_message .= "Nombre: " . $_POST['first_name'] . "\n";
+		$email_message .= "Nombre: " . $_POST['nombre'] . "\n";
 		$email_message .= "Empresa: " . $_POST['empresa'] . "\n";
+		$email_message .= "Teléfono: " . $_POST['telefono'] . "\n";
 		$email_message .= "E-mail: " . $_POST['email'] . "\n";
 		$email_message .= "Comentarios: " . $_POST['comments'] . "\n\n";
 
@@ -31,5 +33,6 @@
 
 		$mensaje = "Gracias. En breve nos pondremos en contacto contigo.";
 		print "<script>alert('$mensaje')</script>";
+		header('Location: /contacto');
 	}
 ?>

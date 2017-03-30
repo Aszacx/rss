@@ -1,0 +1,8 @@
+[21-Feb-2017 00:24:05 UTC] PHP Notice:  Undefined variable: email_from in /home/redessys/public_html/php/send.php on line 29
+[21-Feb-2017 00:24:05 UTC] PHP Notice:  Undefined variable: email_from in /home/redessys/public_html/php/send.php on line 30
+[21-Feb-2017 00:26:52 UTC] PHP Notice:  Undefined variable: email_from in /home/redessys/public_html/php/send.php on line 29
+[21-Feb-2017 00:26:52 UTC] PHP Notice:  Undefined variable: email_from in /home/redessys/public_html/php/send.php on line 30
+[02-Mar-2017 06:17:40 UTC] PHP Notice:  Undefined variable: email_from in /home/redessys/public_html/php/send.php on line 29
+[02-Mar-2017 06:17:40 UTC] PHP Notice:  Undefined variable: email_from in /home/redessys/public_html/php/send.php on line 30
+[02-Mar-2017 06:17:48 UTC] PHP Notice:  Undefined variable: email_from in /home/redessys/public_html/php/send.php on line 29
+[02-Mar-2017 06:17:48 UTC] PHP Notice:  Undefined variable: email_from in /home/redessys/public_html/php/send.php on line 30

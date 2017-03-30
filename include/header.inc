@@ -41,11 +41,11 @@
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">¿Quienes Somos?<b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="nosotros">Visión | Misión</a></li>
-							<li><a href="clientes">Clientes</a></li>
+							<!--<li><a href="clientes">Clientes</a></li>-->
 						</ul>
 					</li>
 					<li><a href="servicios">Áreas de Negocio</a></li>
-					<li><a href="casos">Casos de exito</a></li>
+					<!--<li><a href="casos">Casos de exito</a></li>-->
 					<li><a href="contacto">Contacto</a></li>
 					<!--<li><a class="btn" href="signin.html">SIGN IN / SIGN UP</a></li>-->
 				</ul>

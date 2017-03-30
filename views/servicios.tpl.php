@@ -7,11 +7,44 @@
             <li><a href="index.html">Inicio</a></li>
             <li class="active">Servicios</li>
         </ol>
-
+        <br />
         <div class="row">
             
             <!-- Article main content -->
             <article class="col-md-8 maincontent">
+                    <div id="rssCarousel" class="carousel slide" data-ride="carousel">
+                      <!-- Indicators -->
+                      <ol class="carousel-indicators">
+                        <li data-target="#rssCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#rssCarousel" data-slide-to="1"></li>
+                        <li data-target="#rssCarousel" data-slide-to="2"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                          <img src="./assets/images/Diapositiva1.jpg" alt="Servicios">
+                        </div>
+
+                        <div class="item">
+                          <img src="./assets/images/Diapositiva2.jpg" alt="Servicios">
+                        </div>
+
+                        <div class="item">
+                          <img src="./assets/images/Diapositiva3.jpg" alt="Servicios">
+                        </div>
+                    </div>
+
+                      <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#rssCarousel" role="button" data-slide="prev">
+                        <span style="margin-top: 220px" class="fa fa-chevron-circle-left" aria-hidden="true"></span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    <a class="right carousel-control" href="#rssCarousel" role="button" data-slide="next">
+                        <span style="margin-top: 220px" class="fa fa-chevron-circle-right" aria-hidden="true"></span>
+                        <span class="sr-only">Siguiente</span>
+                    </a>
+                </div>
                 <header class="page-header">
                     <h1 class="page-title">Servicios Profesionales en:</h1>
                 </header>
@@ -42,6 +75,11 @@
                     Telcel, Telefónica, Comcel, Tigo, Alestra, Iusacell, CI, Orange, Lime, y Claro.</li>
                 </ul></p>
 
+				<p><ul>
+                    <li>Desarrollo de páginas web.</li>
+                    <li>Desarrollo de sistemas web a la medida.</li>
+				</p>	
+				
                 <h2>Trabajos Referenciados</h2>
                 <p><ul>
                     <li>Instalación de equipo CISCO 7609, 7606, 2800,3800 y 6500.</li>

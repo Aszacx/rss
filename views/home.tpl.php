@@ -4,7 +4,7 @@
 			<div class="row">
 				<h1 class="lead"><b>RSS</b></h1>
 				<p class="tagline"><b>REDES SEGURIDAD Y SOPÓRTE</b></p>
-				<p><a class="btn btn-default btn-lg" role="button">MÁS INFORMACIÓN</a>
+				<p><a href="servicios" class="btn btn-default btn-lg" role="button">MÁS INFORMACIÓN SOBRE NUESTROS SERVICIOS</a>
 			</div>
 		</div>
 	</header>
@@ -15,7 +15,7 @@
 		<br> <br>
 		<h2 class="thin">¿Quiénes somos?</h2>
 		<p class="text-muted">
-			ITETEL MÉXICO empresa comprometida con el cliente y con trayectoria de
+			RSS MÉXICO empresa comprometida con el cliente y con trayectoria de
 			más de 10 años por parte de nuestros colaboradores en países como México,
 			Colombia, Guatemala, Honduras, Venezuela, Costa Rica y Panamá en la
 			Industria de las Telecomunicaciones, los servicios que ofrecemos están
@@ -26,7 +26,7 @@
 	<!-- /Intro-->
 		
 	<!-- Highlights - jumbotron -->
-	<div class="jumbotron top-space">
+	<!--<div class="jumbotron top-space">
 		<div class="container">
 			
 			<h3 class="text-center thin">Reasons to use this template</h3>
@@ -56,14 +56,14 @@
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, excepturi, maiores, dolorem quasi reprehenderit illo accusamus nulla minima repudiandae quas ducimus reiciendis odio sequi atque temporibus facere corporis eos expedita? </p>
 					</div>
 				</div>
-			</div> <!-- /row  -->
+			</div>--> <!-- /row  -->
 		
-		</div>
-	</div>
+		<!--</div>
+	</div>-->
 	<!-- /Highlights -->
 
 	<!-- container -->
-	<div class="container">
+	<!--<div class="container">
 
 		<h2 class="text-center top-space">Frequently Asked Questions</h2>
 		<br>
@@ -80,9 +80,9 @@
 					I prefer to use photos from these sites: <a href="http://unsplash.com">Unsplash.com</a> 
 					and <a href="http://www.flickr.com/creativecommons/by-2.0/tags/">Flickr - Creative Commons</a></p>
 			</div>
-		</div> <!-- /row -->
+		</div>--> <!-- /row -->
 
-		<div class="row">
+		<!--<div class="row">
 			<div class="col-sm-6">
 				<h3>Can I use it to build a site for my client?</h3>
 				<p>
@@ -94,27 +94,27 @@
 				<h3>Can you customize this template for me?</h3>
 				<p>Yes, I can. Please drop me a line to sergey-at-pozhilov.com and describe your needs in details. Please note, my services are not cheap.</p>
 			</div>
-		</div> <!-- /row -->
+		</div>--> <!-- /row -->
 
-		<div class="jumbotron top-space">
+		<!--<div class="jumbotron top-space">
 			<h4>Dicta, nostrum nemo soluta sapiente sit dolor quae voluptas quidem doloribus recusandae facere magni ullam suscipit sunt atque rerum eaque iusto facilis esse nam veniam incidunt officia perspiciatis at voluptatibus. Libero, aliquid illum possimus numquam fuga.</h4>
      		<p class="text-right"><a class="btn btn-primary btn-large">Learn more »</a></p>
   		</div>
-</div>	<!-- /container -->
+</div>-->	<!-- /container -->
 	
 	<!-- Social links. @TODO: replace by link/instructions in template -->
-	<section id="social">
+	<!--<section id="social">
 		<div class="container">
 			<div class="wrapper clearfix">
 				<!-- AddThis Button BEGIN -->
-				<div class="addthis_toolbox addthis_default_style">
+				<!--<div class="addthis_toolbox addthis_default_style">
 				<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
 				<a class="addthis_button_tweet"></a>
 				<a class="addthis_button_linkedin_counter"></a>
 				<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
 				</div>
 				<!-- AddThis Button END -->
-			</div>
+			<!--</div>
 		</div>
-	</section>
+	</section>-->
 	<!-- /social links -->

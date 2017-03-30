@@ -5,8 +5,8 @@
 					<div class="col-md-3 widget">
 						<h3 class="widget-title">Contacto</h3>
 						<div class="widget-body">
-							<p>+234 23 9873237<br>
-								<a href="mailto:#">some.email@somewhere.com</a><br>
+							<p>7039 5509 ó 55 2988 9181<br>
+								<a href="mailto:rss@redes-sys.net">rss@redes-sys.net</a><br>
 							</p>	
 						</div>
 					</div>
@@ -16,11 +16,11 @@
 						<div class="widget-body">
 							<p class="follow-me-icons">
 								<a href=""><i class="fa fa-twitter fa-2"></i></a>
-								<a href=""><i class="fa fa-facebook fa-2"></i></a>
+								<a href="https://www.facebook.com/Redes-Seguridad-y-Soporte-389677294733749"><i class="fa fa-facebook fa-2"></i></a>
 							</p>	
 						</div>
 					</div>
-					<div class="col-md-6 widget">
+					<!--<div class="col-md-6 widget">
 						<h3 class="widget-title">Text widget</h3>
 						<div class="widget-body">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, dolores, quibusdam architecto voluptatem amet fugiat nesciunt placeat provident cumque accusamus itaque voluptate modi quidem dolore optio velit hic iusto vero praesentium repellat commodi ad id expedita cupiditate repellendus possimus unde?</p>
@@ -28,7 +28,7 @@
 						</div>
 					</div>
 
-				</div> <!-- /row of widgets -->
+				</div--><!-- /row of widgets -->
 			</div>
 		</div>
 		<div class="footer2">
@@ -49,7 +49,7 @@
 					<div class="col-md-6 widget">
 						<div class="widget-body">
 							<p class="text-right">
-								Copyright &copy; 2017, RSS - Redes Seguridad Y Sopórte. Designed by <a href="http://dtsystems.com/" rel="designer">DTS Systems</a> 
+								Copyright &copy; 2017, RSS - Redes Seguridad Y Sopórte. Designed by <a href="http://dtssystems.com.mx" rel="designer">DTS Systems</a> 
 							</p>
 						</div>
 					</div>

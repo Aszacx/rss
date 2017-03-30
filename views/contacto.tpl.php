@@ -20,22 +20,28 @@
 					Nos encantaría saber de usted. ¿Interesado en trabajar juntos? Complete el siguiente formulario con información sobre su proyecto y le responderemos en breve.
 				</p>
 				<br>
-					<form>
+					<form method="POST" action="../php/send.php">
 						<div class="row">
-							<div class="col-sm-4">
-								<input class="form-control" type="text" placeholder="Nombre">
+							<div class="col-sm-6">
+								<input class="form-control" name="nombre" type="text" placeholder="Nombre">
 							</div>
-							<div class="col-sm-4">
-								<input class="form-control" type="text" placeholder="Correo Electrónico">
-							</div>
-							<div class="col-sm-4">
-								<input class="form-control" type="text" placeholder="Teléfono">
+							<div class="col-sm-6">
+								<input class="form-control" name="empresa" type="text" placeholder="Empresa">
 							</div>
 						</div>
 						<br>
 						<div class="row">
+							<div class="col-sm-6">
+								<input class="form-control" name="email" type="email" placeholder="Correo Electrónico">
+							</div>
+							<div class="col-sm-6">
+								<input class="form-control" name="telefono" type="number" placeholder="Teléfono">
+							</div>	
+						</div>
+						<br>
+						<div class="row">
 							<div class="col-sm-12">
-								<textarea placeholder="Escribe tu mensaje aquí" class="form-control" rows="9"></textarea>
+								<textarea placeholder="Escribe tu mensaje aquí" name="comments" class="form-control" rows="9"></textarea>
 							</div>
 						</div>
 						<br>
@@ -57,11 +63,11 @@
 				<div class="widget">
 					<h4>Dirección:</h4>
 					<address>
-						Aquí se coloca la dirección de tus oficinas.
+						Cd. México
 					</address>
 					<h4>Teléfono:</h4>
 					<address>
-						(713) 791-1414
+						7039 5509 ó 55 2988 9181
 					</address>
 				</div>
 
